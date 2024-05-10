@@ -1,6 +1,5 @@
 # audio-visualization
 
-# Project Overview
 "InkFlow" is a dynamic audio visualization tool inspired by Chinese ink-wash painting techniques. It uses Fast Fourier Transform (FFT) values and user mouse events to generate visual patterns that mimic brush strokes on a canvas. The visuals change in real-time based on the audio input and user interactions, providing a unique experience with each use.
 
 ## Features
